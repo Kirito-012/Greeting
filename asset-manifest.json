@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kabaddi/static/css/main.8a20254f.css",
+    "main.js": "/kabaddi/static/js/main.1b7bd039.js",
+    "index.html": "/kabaddi/index.html",
+    "main.8a20254f.css.map": "/kabaddi/static/css/main.8a20254f.css.map",
+    "main.1b7bd039.js.map": "/kabaddi/static/js/main.1b7bd039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a20254f.css",
+    "static/js/main.1b7bd039.js"
+  ]
+}
